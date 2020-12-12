@@ -1,0 +1,48 @@
+{
+  "name": "Uniswap",
+  "logoURI": "https://github.com/swingsmith/list/blob/main/logo/TIDE.png",
+  "keywords": [
+    "Uniswap",
+    "defi"
+  ],
+  "timestamp": "2020-12-13T04:14:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd303cf6fdc49689cf42ddb44824d446664b76e95",
+      "name": "Tide",
+      "symbol": "TIDE",
+      "decimals": 18,
+      "logoURI": "https://github.com/swingsmith/list/blob/main/logo/TIDE.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8e94d927a3ecb5c601fd1ff7238f1a95e1641aa",
+      "name": "Decentralized USD",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logoURI": "https://github.com/swingsmith/list/blob/main/logo/USDD.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
