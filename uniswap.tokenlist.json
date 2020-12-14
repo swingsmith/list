@@ -1,6 +1,6 @@
 {
   "name": "Uniswap",
-  "logoURI": "https://github.com/swingsmith/list/blob/main/logo/TIDE.png",
+  "logoURI": "http://main.stones.games:8080/static/api/apk/uniswap/log/TIDE.png",
   "keywords": [
     "Uniswap",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Tide",
       "symbol": "TIDE",
       "decimals": 18,
-      "logoURI": "https://github.com/swingsmith/list/blob/main/logo/TIDE.png"
+      "logoURI": "http://main.stones.games:8080/static/api/apk/uniswap/log/TIDE.png"
     },
     {
       "chainId": 1,
@@ -21,7 +21,7 @@
       "name": "Decentralized USD",
       "symbol": "USDD",
       "decimals": 18,
-      "logoURI": "https://github.com/swingsmith/list/blob/main/logo/USDD.png"
+      "logoURI": "http://main.stones.games:8080/static/api/apk/uniswap/log/USDD.png"
     },
     {
       "chainId": 1,
@@ -39,7 +39,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     }
-    
+
   ],
   "version": {
     "major": 0,
